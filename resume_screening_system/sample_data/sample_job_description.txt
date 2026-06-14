@@ -1,0 +1,5 @@
+We are looking for a Senior Python Backend Developer with 5+ years of experience.
+Required technical skills include: Python, Django, FastAPI, PostgreSQL, AWS, Docker, Git.
+Experience building scalable REST APIs, managing database migrations, and microservices is essential.
+Nice to have: Redis caching, CI/CD automated deployment pipelines, and Kubernetes container management.
+Education: Bachelor's degree in Computer Science or equivalent.
