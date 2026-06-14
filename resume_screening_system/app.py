@@ -2,7 +2,6 @@ import os
 import io
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
 
 # Import custom modular components
 from src.database import init_db, create_job_posting, save_candidate_result, get_candidates
